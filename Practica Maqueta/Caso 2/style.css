@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 750px;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(147, 38, 215);
+    border: 1px solid black;
+}
+
+header{
+    margin: 10px;
+    background-color: grey;
+    border: 1px solid black;
+}
+
+nav{
+    margin: 10px;
+    background-color: rgb(205, 54, 124);
+    border: 1px solid black;
+}
+
+main{
+    position: absolute;
+    width: 500;
+    border: 1px solid black;
+    left: 0;
+}
+
+.article1{
+
+}
+
+.article2{
+
+}
